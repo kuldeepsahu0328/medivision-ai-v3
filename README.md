@@ -61,8 +61,8 @@ This MVP demonstrates the application of AI in healthcare with secure configurat
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/your-username/medivision-ai.git
-cd medivision-ai
+git clone https://github.com/kuldeepsahu0328/medivision-ai-v3.git
+cd medivision-ai-v3
 ```
 
 2. **Install dependencies**
