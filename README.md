@@ -1,20 +1,44 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# MediVision AI – Medical Image Analysis using Generative AI (MVP)
 
-# Run and deploy your AI Studio app
+AI-powered medical image analysis system focused on **privacy, clarity, and usability**.  
+Upload medical images (prescriptions, reports), process them using **Google Gemini Generative AI**, and receive structured insights through a clean, modern web interface.
 
-This contains everything you need to run your app locally.
+This project demonstrates the application of **AI in healthcare** with secure configuration practices and a modular frontend architecture.
 
-View your app in AI Studio: https://ai.studio/apps/drive/106CKf6Jp8cNW3PniFtPQb13Y9yeq4slG
+---
 
-## Run Locally
+## Features
 
-**Prerequisites:**  Node.js
+- Medical image upload (prescriptions, reports)
+- AI-based image interpretation using Google Gemini
+- Real-time result rendering
+- Secure API key handling via environment variables
+- Loading indicators for better UX
+- Clean and responsive UI
+- Firebase-ready deployment
+- Modular and scalable codebase
 
+---
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+## Tech Stack
+
+**Frontend**
+- React (TypeScript)
+- Vite
+- CSS (component-based styling)
+
+**AI / Services**
+- Google Gemini Generative AI API
+
+**Deployment**
+- Firebase Hosting
+
+---
+
+## Quick Start
+
+### Clone and install
+```bash
+git clone https://github.com/your-username/medivision-ai.git
+cd medivision-ai
+npm install
