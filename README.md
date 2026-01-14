@@ -44,8 +44,6 @@ This MVP demonstrates the application of AI in healthcare with secure configurat
 - 📦 **ES Modules** - Modern module system for dependency management
 
 ### Development & Deployment
-- 🔥 **Firebase Hosting** - Scalable cloud deployment
-- 🧪 **Testing Framework** - Comprehensive test coverage
 - 📁 **Modular Architecture** - Component-based design for maintainability
 
 ---
